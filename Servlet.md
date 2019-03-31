@@ -241,7 +241,7 @@ xml是可扩展标记语言，和HTML语言的不同点：1）HTML标签的含�
 
 如图：
 
-![inherit](./img/inherit.PNG)
+![inherit](./img/inherit.jpg)
 
 > Servlet：一个接口，内部有五个未被实现的方法，分别为：
 >
@@ -378,7 +378,7 @@ URIEncoding = "utf-8"
 
 **4）原理不同（根）：**
 
-![dispacher](./img/dispacher.PNG)
+![dispacher](./img/dispacher.jpg)
 
 5）跳转的范围不同：
 
